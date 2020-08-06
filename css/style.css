@@ -511,18 +511,6 @@ p {
 ----------------------------------------------------*/
 
 @media screen and (max-width: 767px) {
-    
-  /* #header .logo {
-    display: block;
-    font-size: 30px;
-  } */
-
-}
-
-/*media Queries 767
-----------------------------------------------------*/
-
-@media screen and (max-width: 767px) {
   #skills .card {
     flex-basis: 100%;
   }
