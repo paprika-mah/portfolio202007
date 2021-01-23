@@ -419,7 +419,63 @@ p {
 #skills .content-blank{
   /* margin-bottom: 5em; */
   height: 10px;
-}∂
+}
+
+/*--------------------------------
+ Certfication
+---------------------------------*/
+
+#certification .dltable {
+  width: 80%;
+  border: 1px solid #cccccc;
+  border-radius: 4px;
+  margin: auto;
+  background-color: #fff;
+}
+
+#certification .dltable .row1-head {
+  text-align: center;
+  width: 20%;
+}
+
+#certification .dltable .row2-head {
+  text-align: center;
+  border-left: 1px solid #ccc;
+  width: 80%;
+}
+
+#certification .dltable .row1 {
+  text-align: center;
+  width: 20%;
+}
+
+#certification .dltable .row2 {
+  border-left: 1px solid #ccc;
+  padding-left: 2%;
+  width: 80%;
+}
+
+#certification .dltable dl {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: left;
+  border-bottom: 1px solid #ccc;
+}
+
+#certification .dltable dt {
+  padding: 10px 0;
+  background: #f2f2f2 none repeat scroll 0 0;
+  color: #333;
+}
+
+#certification .dltable dd {
+  padding: 10px 0;
+}
+
+
+
+
+
 /*--------------------------------
  contact
 ---------------------------------*/
