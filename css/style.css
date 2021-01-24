@@ -63,7 +63,7 @@ p {
 
 
 /*--------------------------------
-　全体
+　All
 ---------------------------------*/
 
 #wrapper {
@@ -82,7 +82,7 @@ p {
 }
 
 /*--------------------------------
-　ヘッダー
+　Header
 ---------------------------------*/
 
 #header {
@@ -134,7 +134,7 @@ p {
 }
 
 /*--------------------------------
-　グローバルナビ
+　Grobal navi
 ---------------------------------*/
 
 #gnav {
@@ -435,24 +435,24 @@ p {
 
 #certification .dltable .row1-head {
   text-align: center;
-  width: 20%;
+  width: 15%;
 }
 
 #certification .dltable .row2-head {
   text-align: center;
   border-left: 1px solid #ccc;
-  width: 80%;
+  width: 85%;
 }
 
 #certification .dltable .row1 {
   text-align: center;
-  width: 20%;
+  width: 15%;
 }
 
 #certification .dltable .row2 {
   border-left: 1px solid #ccc;
   padding-left: 2%;
-  width: 80%;
+  width: 85%;
 }
 
 #certification .dltable dl {
