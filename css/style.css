@@ -472,9 +472,23 @@ p {
   padding: 10px 0;
 }
 
+/*--------------------------------
+ events
+---------------------------------*/
+#events .event-list li {
+  border-bottom: 2px solid #efefef;
+  padding: .5em 0;
+}
 
+#events .event-list {
+  width: 80%;
+  margin: auto;
+}
 
-
+#events .event-list .event-date {
+  color: grey;
+  margin-right: 20px;
+}
 
 /*--------------------------------
  contact
